@@ -1,0 +1,30 @@
+.header {
+  color: #fff;
+  background-color: #3474e6;
+}
+
+.header .container {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__logo {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.header__navbar {
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+.header__navbar a:hover {
+  color: lightblue;
+  transition: 0.3s;
+}

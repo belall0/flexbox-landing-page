@@ -1,0 +1,21 @@
+.hero {
+  background: #0a51cc;
+  color: #fff;
+}
+
+.hero .container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.hero__content h1 {
+  font-size: 48px;
+  line-height: 1.1;
+  margin-bottom: 24px;
+}
+
+.hero__image {
+  flex: 1;
+  max-width: 400px;
+}
