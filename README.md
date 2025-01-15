@@ -4,6 +4,6 @@ This is a landing page created using flexbox. It is a simple page with a header,
 
 ## Screenshots
 
-![screenshot](./assets/screen1.png)
+![screenshot](./screens/screen1.png)
 
-![screenshot](./assets/screen2.png)
+![screenshot](./screens/screen2.png)
